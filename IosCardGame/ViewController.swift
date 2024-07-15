@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  IosCardGame
-//
-//  Created by Student18 on 02/07/2024.
-//
 
 import UIKit
 import AVFoundation
