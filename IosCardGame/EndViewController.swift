@@ -19,8 +19,6 @@ class EndViewController: UIViewController {
     }
     
     @IBAction func menuButtonTapped(_ sender: UIButton) {
-        // Dismiss the current view controller and go back to the initial view controller
-        // This will dismiss the intermediate view controllers, returning to OpenViewController
         self.navigationController?.popToRootViewController(animated: true)
     }
 }
